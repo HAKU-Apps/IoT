@@ -1,11 +1,11 @@
 # Custom Vision + Azure IoT Edge on a Raspberry Pi Zero
 
 This is a project to deploy a Custom Vision model to a Raspberry Pi device running Azure IoT Edge. 
-Custom Vision is an image classifier that is trained in the cloud with your own images. IoT Edge gives you the possibility to run this model next to your cameras, where the video data is being generated. You can thus add meaning to your video streams to detect road traffic conditions, estimate wait lines, find parking spots, etc. while keeping your video footage private, lowering your bandwidth costs and even running offline.
+It will use Custom Vision as an image classifier to detect the gender of visitors to a business location. 
 
-This sample can also be deployed on an x64 machine (aka your PC). It has been ported to the newer IoT Edge GA bits.
+References used from Microsoft IoT channel: 
 
-Check out [this video](https://www.youtube.com/watch?v=_K5fqGLO8us) to see this demo in action and understand how it was built:
+(https://www.youtube.com/watch?v=_K5fqGLO8us) 
 
 [![Custom Vision On Raspberry Pi Video](assets/CustomVisionOnRPiDemo.png)](https://www.youtube.com/watch?v=_K5fqGLO8us)
 
