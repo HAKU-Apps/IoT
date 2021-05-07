@@ -18,8 +18,6 @@ This solution uses the following hardware:
 - **Azure Container Registry**: 
 
 
-![IoT Edge deployment workflow](assets/IoTEdgeDeployment.gif)
-
 ### Tooling
 You need the following dev tools to do IoT Edge development in general, to make this sample run and edit it:
 - **Visual Studio Code**
@@ -40,7 +38,6 @@ This is how the above three modules communicate between themselves and with the 
 ![Communication patterns between modules](assets/CommunicationPatterns.png)
 
 
-References used from Microsoft IoT YOUTUBE channel. 
-
-### Update the configuration of the camera capture module
-Explore the various [configuration options of the camera module](https://github.com/Azure-Samples/Custom-vision-service-iot-edge-raspberry-pi/tree/master/modules/CameraCapture), to score your ai model against a camera feed vs a video clip, to resize your images, to see logs, etc.
+Reference: 
+Microsoft IoT YouTube channel.
+https://github.com/Azure/azure-iot-cli-extension
