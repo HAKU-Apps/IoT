@@ -14,16 +14,16 @@ This solution uses the following hardware:
  
 ### Services
 
-- **Azure IoT Hub**: This is your Cloud gateway which is needed to manage your IoT Edge devices. All deployments to Edge devices are made through an IoT Hub. You can use the free sku for this sample.
-- **Azure Container Registry**: This is where you host your containers (e.g. IoT Edge modules). Deployment manifests refer to this container registry for the IoT Edge devices to download their images.You can use the free sku for this sample.
+- **Azure IoT Hub**: 
+- **Azure Container Registry**: 
 
 
 ![IoT Edge deployment workflow](assets/IoTEdgeDeployment.gif)
 
 ### Tooling
 You need the following dev tools to do IoT Edge development in general, to make this sample run and edit it:
-- **Visual Studio Code**: IoT Edge development environment. [Download it from here](https://code.visualstudio.com/).
-- **Visual Studio Code: Azure IoT Edge Extension**: An extension that connects to your IoT Hub and lets you manage your IoT Devices and IoT Edge Devices right from VS Code. A must-have for IoT Edge development. [Download it from here](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-edge). Once installed, connect it to your IoT Hub.
+- **Visual Studio Code**:
+- **Visual Studio Code: Azure IoT Edge Extension**
 
 
 ## Description of the solution
