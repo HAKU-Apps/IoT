@@ -1,2 +1,2 @@
-Apple
-Banana
+Female
+Male
