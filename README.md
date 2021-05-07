@@ -9,14 +9,14 @@ It will use Custom Vision as an image classifier to detect the gender of visitor
 ### Hardware
 This solution uses the following hardware:
 
-- **Raspberry Pi 3**: Set up Azure IoT Edge on a Raspberry Pi 3 ([instructions to set up the hardware - use raspbian 9 (stretch) or above)](https://blog.jongallant.com/2017/11/raspberrypi-setup/) + [instructions to install Azure IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-install-iot-edge-linux-arm)) with a [SenseHat](https://www.raspberrypi.org/products/sense-hat/) and use the arm32v7 tags.
+- **Raspberry Pi Zero**
 
  
 ### Services
 
-- **Azure IoT Hub**: 
-- **Azure Container Registry**: 
-
+- **Azure IoT Hub**
+- **Azure Container Registry** 
+- **Docker**
 
 ### Tooling
 You need the following dev tools to do IoT Edge development in general, to make this sample run and edit it:
