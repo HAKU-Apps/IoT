@@ -40,5 +40,5 @@ This is how the above three modules communicate between themselves and with the 
 
 
 Reference: 
-Microsoft IoT YouTube channel https://youtu.be/_K5fqGLO8us
+Microsoft IoT Custom Vison AI on Azure IoT Edge https://youtu.be/_K5fqGLO8us
 
