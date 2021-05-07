@@ -22,11 +22,11 @@ This solution uses the following hardware:
 
 ### Tooling
 You need the following dev tools to do IoT Edge development in general, to make this sample run and edit it:
-- **Visual Studio Code**:
+- **Visual Studio Code**
 - **Visual Studio Code: Azure IoT Edge Extension**
 
 
-## Description of the solution
+## Description of the architecture
 ### Modules
 This solution is made of 3 modules:
 
