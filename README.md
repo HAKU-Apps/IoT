@@ -40,5 +40,5 @@ This is how the above three modules communicate between themselves and with the 
 
 
 Reference: 
-Microsoft IoT YouTube channel.
-https://github.com/Azure/azure-iot-cli-extension
+Microsoft IoT YouTube channel https://youtu.be/_K5fqGLO8us
+
