@@ -1,7 +1,7 @@
-# Custom Vision + Azure IoT Edge on a Raspberry Pi
+# IoT Solution for Customer Metrics
 
-This is a project to deploy a Custom Vision model to a Raspberry Pi device running Azure IoT Edge. 
-It will use Custom Vision as an image classifier to detect the gender of visitors to a business location. 
+This is a project to deploy an AI model to a Raspberry Pi device running Azure IoT Edge. 
+It will use an image classifier to detect the gender of visitors to a business location. 
  
 
 ## Prerequisites
@@ -18,6 +18,7 @@ This solution uses the following hardware:
 - **Azure IoT Hub**
 - **Azure Container Registry** 
 - **Docker**
+- **Custom Vision**
 
 ### Tooling
 
