@@ -10,6 +10,7 @@ It will use Custom Vision as an image classifier to detect the gender of visitor
 This solution uses the following hardware:
 
 - **Raspberry Pi Zero**
+- **Raspberry Pi Camera**
 
  
 ### Services
@@ -19,7 +20,7 @@ This solution uses the following hardware:
 - **Docker**
 
 ### Tooling
-You need the following dev tools to do IoT Edge development in general, to make this sample run and edit it:
+
 - **Visual Studio Code**
 - **Visual Studio Code: Azure IoT Edge Extension**
 
